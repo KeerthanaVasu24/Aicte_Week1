@@ -1,0 +1,12 @@
+Python Modules
+    -Tensorflow
+    - Numpy
+    - Pandas
+    - Matplotlib
+    - tqdm
+    - cv2
+    - warnings
+
+Platform
+    - Google colab
+    - jupyter notebook
